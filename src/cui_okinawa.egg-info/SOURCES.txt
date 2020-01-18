@@ -1,0 +1,12 @@
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+src/cui_okinawa/__init__.py
+src/cui_okinawa/cli.py
+src/cui_okinawa/cui_okinawa.py
+src/cui_okinawa.egg-info/PKG-INFO
+src/cui_okinawa.egg-info/SOURCES.txt
+src/cui_okinawa.egg-info/dependency_links.txt
+src/cui_okinawa.egg-info/requires.txt
+src/cui_okinawa.egg-info/top_level.txt
